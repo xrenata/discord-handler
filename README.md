@@ -1,5 +1,5 @@
 # discordjs-handler
-*You just need to fill in the config.json file. If you do not enter a value in the GuildID section, you will see slash commands on all servers.
+* You just need to fill in the config.json file. If you do not enter a value in the GuildID section, you will see slash commands on all servers.
 # Features
 * Logging to the console in table form
 * Multi-file event system
